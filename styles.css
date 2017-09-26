@@ -41,6 +41,24 @@
      color: #17cc17;
      text-decoration: none;
  }
+ /*section*/
+ section{
+     height: 400px;
+     width: 100%;
+     background-color: #fff;
+ }
+ /*Article*/
+ article{
+       background-color: #fff;
+ }
+ article .article_section_a{
+     width:49%;
+     display: inline-block;
+ }
+ article .article_section_b{
+      width:49%;
+      display: inline-block;
+ }
  
  /*footer*/
  footer{
