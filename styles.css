@@ -41,12 +41,7 @@
      color: #17cc17;
      text-decoration: none;
  }
- /*section*/
- section{
-     height: 400px;
-     width: 100%;
-     background-color: #fff;
- }
+ 
  /*Article*/
  article{
        background-color: #fff;

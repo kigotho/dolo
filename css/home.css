@@ -1,0 +1,20 @@
+#home_section{
+    color:#fff;
+}
+.home_section_a{
+     width:49%;
+     display: inline-block;
+}
+.home_section_b{
+     width:49%;
+     display: inline-block;
+}
+#home_section .content img{
+    margin: 0 10px 0 10px;
+}
+#home_section .content{
+    display:inline-block;
+}
+#home_section .content p{
+   margin: 0;
+}
