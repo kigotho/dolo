@@ -1,0 +1,59 @@
+ body {    
+     background-image: url("images/background.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ /*header*/
+ #title{
+     display: inline-block;
+     vertical-align: top;
+     margin: 0 0 0 51%;
+     width: 100%;
+     color: #fff;
+     font-size: 18px;
+ }
+ #logo{
+    width: 100%;
+ }
+ #logo img{
+    display: inline-block;
+    vertical-align: middle;
+    height: 87px;
+    margin: -1.5% 0 0 0;
+ }
+ #main-menu {
+     display: inline-block;
+     vertical-align: top;
+     margin: 1% 0 0 34.3%;
+ }
+ #main-menu ul{
+    padding: 0;
+    margin: 0;
+ }
+ #main-menu ul li{
+     display: inline-block;
+     padding: 6px 6px;
+     background-color: #fff;
+ }
+ #main-menu ul li a{
+     font-size: 21px;
+     margin: 6px;
+     color: #17cc17;
+     text-decoration: none;
+ }
+ 
+ /*footer*/
+ footer{
+     background-color:#fff;
+ }
+ footer p{
+     text-align: center;
+     width: 80%;
+     display: inline-block;
+ }
+ footer ul {
+     list-style-type: none;
+     display: inline-block;
+
+ }
+ 
