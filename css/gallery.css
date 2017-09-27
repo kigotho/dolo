@@ -1,0 +1,12 @@
+#marquee{
+    width: 20%;
+    margin: 0px 14%;
+}
+#gallery_section .crane_a{
+    display: inline-block;
+    margin-left: 14%;
+}
+#gallery_section .crane_b{
+    display: inline-block;
+    margin-left: 37%;
+}

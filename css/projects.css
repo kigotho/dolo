@@ -1,0 +1,15 @@
+#projects_section .content {
+    display: inline-block;
+    color:#fff;
+}
+#projects_section .content p {
+    margin: 0px;
+}
+#projects_section .content h4 {
+    margin: 0px 0px 8px;
+    display: inline-block;
+    width: 28%;
+}
+#projects_section .content img {
+    margin: 0px 10px;
+}

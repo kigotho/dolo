@@ -1,0 +1,7 @@
+#contact_section{
+    color:#fff;
+}
+#contact_section .content{
+    width: 20%;
+    display: inline-block;
+}
